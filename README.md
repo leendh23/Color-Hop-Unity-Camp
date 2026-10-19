@@ -2,6 +2,8 @@
 ```markdown
 # 🐰 Color Hop — 3D Unity Game
 
+🎮 **[Click Here to Download & Play / تحميـل اللعبـة وتجربتها] : ColorHop.zip 
+
 ![Unity](https://img.shields.io/badge/Unity-2022%2F2023-black?style=for-the-badge&logo=unity)
 ![C%23](https://img.shields.io/badge/C%23-Language-blue?style=for-the-badge&logo=c-sharp)
 ![Platform](https://img.shields.io/badge/Platform-3D%20Game-orange?style=for-the-badge)
